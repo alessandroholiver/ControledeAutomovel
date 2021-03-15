@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WAMQSwbglE1BLC2pUr8eWQjCp8aXZjU3VcnleBsH8qMp/tAKEPJKMV5Zsk80q670+8wvETD3ELsCV0c/Gg+Nqw==",
+  "dgSpecHash": "OT3CQ2fVvWApo4oswX1Fn8n6pb3X6uyhfygG8CgYRrh/lAcgSYDHlYJfgMbl10xXcPFZ1SKD8nzaSbgfcbyH/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.test\\ControleAluguel.Test.csproj",
+  "projectFilePath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.test\\ControleAluguel.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\canel\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\canel\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Infrastructure\\ControleAluguel.Infrastructure.csproj": {}
+    "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Infrastructure\\ControleAluguel.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Application\\ControleAluguel.Application.csproj": {
+    "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Application\\ControleAluguel.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Application\\ControleAluguel.Application.csproj",
+        "projectUniqueName": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Application\\ControleAluguel.Application.csproj",
         "projectName": "ControleAluguel.Application",
-        "projectPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Application\\ControleAluguel.Application.csproj",
+        "projectPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Application\\ControleAluguel.Application.csproj",
         "packagesPath": "C:\\Users\\canel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Application\\obj\\",
+        "outputPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Core\\ControleAluguel.Core.csproj": {
-                "projectPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Core\\ControleAluguel.Core.csproj"
+              "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Core\\ControleAluguel.Core.csproj": {
+                "projectPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Core\\ControleAluguel.Core.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Core\\ControleAluguel.Core.csproj": {
+    "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Core\\ControleAluguel.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Core\\ControleAluguel.Core.csproj",
+        "projectUniqueName": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Core\\ControleAluguel.Core.csproj",
         "projectName": "ControleAluguel.Core",
-        "projectPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Core\\ControleAluguel.Core.csproj",
+        "projectPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Core\\ControleAluguel.Core.csproj",
         "packagesPath": "C:\\Users\\canel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Core\\obj\\",
+        "outputPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Infrastructure\\ControleAluguel.Infrastructure.csproj": {
+    "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Infrastructure\\ControleAluguel.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Infrastructure\\ControleAluguel.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Infrastructure\\ControleAluguel.Infrastructure.csproj",
         "projectName": "ControleAluguel.Infrastructure",
-        "projectPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Infrastructure\\ControleAluguel.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Infrastructure\\ControleAluguel.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\canel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -170,11 +170,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Application\\ControleAluguel.Application.csproj": {
-                "projectPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Application\\ControleAluguel.Application.csproj"
+              "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Application\\ControleAluguel.Application.csproj": {
+                "projectPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Application\\ControleAluguel.Application.csproj"
               },
-              "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Core\\ControleAluguel.Core.csproj": {
-                "projectPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Core\\ControleAluguel.Core.csproj"
+              "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Core\\ControleAluguel.Core.csproj": {
+                "projectPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Core\\ControleAluguel.Core.csproj"
               }
             }
           }

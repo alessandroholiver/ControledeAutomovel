@@ -4629,11 +4629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.test\\ControleAluguel.test.csproj",
-      "projectName": "ControleAluguel.test",
-      "projectPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.test\\ControleAluguel.test.csproj",
+      "projectUniqueName": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.test\\ControleAluguel.Test.csproj",
+      "projectName": "ControleAluguel.Test",
+      "projectPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.test\\ControleAluguel.Test.csproj",
       "packagesPath": "C:\\Users\\canel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.test\\obj\\",
+      "outputPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

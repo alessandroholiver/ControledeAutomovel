@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vPG9teEozK6K4qpfc9QHjIP3FCZD31SeiYVdv3gZUhnYbyz6SnQ3po/+eI52Xn3mpem+TWdbz2TFDz/kcP/05Q==",
+  "dgSpecHash": "cTWMznzBnVRSAhMaxh30RKkrbN6/i5XZxaiXreXT25IjNoF2bcB7i35n8eatG2YdFZfRoyo2wDxTu4R5gicGtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Application\\ControleAluguel.Application.csproj",
+  "projectFilePath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Application\\ControleAluguel.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\canel\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\canel\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",

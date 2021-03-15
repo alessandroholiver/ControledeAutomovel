@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Core\\ControleAluguel.Core.csproj",
+      "projectUniqueName": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Core\\ControleAluguel.Core.csproj",
       "projectName": "ControleAluguel.Core",
-      "projectPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Core\\ControleAluguel.Core.csproj",
+      "projectPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Core\\ControleAluguel.Core.csproj",
       "packagesPath": "C:\\Users\\canel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.Core\\obj\\",
+      "outputPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

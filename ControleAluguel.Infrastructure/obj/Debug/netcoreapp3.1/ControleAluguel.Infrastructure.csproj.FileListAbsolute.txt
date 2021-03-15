@@ -12,3 +12,17 @@ C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Infrastructure\obj\D
 C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Infrastructure\obj\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.csproj.CopyComplete
 C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Infrastructure\obj\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.dll
 C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Infrastructure\obj\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.pdb
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\bin\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.deps.json
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\bin\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.dll
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\bin\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.pdb
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\bin\Debug\netcoreapp3.1\ControleAluguel.Application.dll
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\bin\Debug\netcoreapp3.1\ControleAluguel.Core.dll
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\bin\Debug\netcoreapp3.1\ControleAluguel.Application.pdb
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\bin\Debug\netcoreapp3.1\ControleAluguel.Core.pdb
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\obj\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.csprojAssemblyReference.cache
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\obj\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\obj\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.AssemblyInfo.cs
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\obj\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\obj\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.csproj.CopyComplete
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\obj\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.dll
+C:\Users\canel\Documentos\GIT\ControledeAutomovel\ControleAluguel.Infrastructure\obj\Debug\netcoreapp3.1\ControleAluguel.Infrastructure.pdb

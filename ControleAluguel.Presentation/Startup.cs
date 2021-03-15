@@ -45,14 +45,12 @@ namespace ControleAluguel.Presentation
                 c.SwaggerDoc("v1",
                     new Microsoft.OpenApi.Models.OpenApiInfo
                     {
-                        Title = "Comparador de Fundos - Meuportfol.io",
+                        Title = "Controle de Aluguel de Automóveis",
                         Version = "v1",
-                        Description = "Comparador de Fundos - Meuportfol.io. Para utilização nos procure para obter credencial"
+                        Description = "Controlar aluguel de carros"
 
                     });
-                c.CustomSchemaIds(x => x.FullName); //Essa linha deve ser inserida em casos que há classes com mesmo nome em namespaces diferentes
-
-                //Obtendo o diretório e depois o nome do arquivo .xml de comentários
+                c.CustomSchemaIds(x => x.FullName);
                 var applicationBasePath = PlatformServices.Default.Application.ApplicationBasePath;
                 var applicationName = PlatformServices.Default.Application.ApplicationName;
                 var xmlDocumentPath = Path.Combine(applicationBasePath, $"{applicationName}.xml");
@@ -85,12 +83,11 @@ namespace ControleAluguel.Presentation
             });
             app.UseSwagger();
 
-// Habilitar o middleware para servir o swagger-ui (HTML, JS, CSS, etc.), 
-// Especificando o Endpoint JSON Swagger.
+
 app.UseSwaggerUI(c =>
 {
-    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Comparador de Fundos - Meuportfol.io");
-    c.RoutePrefix = string.Empty; //Adicione algum proefixo da URL caso queira
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "ontrolar aluguel de carros");
+    c.RoutePrefix = string.Empty; 
 });
 
 

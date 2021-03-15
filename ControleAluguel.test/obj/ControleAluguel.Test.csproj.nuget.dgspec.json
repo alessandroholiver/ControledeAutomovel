@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.test\\ControleAluguel.Test.csproj": {}
+    "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.test\\ControleAluguel.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.test\\ControleAluguel.Test.csproj": {
+    "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.test\\ControleAluguel.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.test\\ControleAluguel.Test.csproj",
+        "projectUniqueName": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.test\\ControleAluguel.Test.csproj",
         "projectName": "ControleAluguel.Test",
-        "projectPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.test\\ControleAluguel.Test.csproj",
+        "projectPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.test\\ControleAluguel.Test.csproj",
         "packagesPath": "C:\\Users\\canel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\canel\\source\\repos\\ControleAluguel\\ControleAluguel.test\\obj\\",
+        "outputPath": "C:\\Users\\canel\\Documentos\\GIT\\ControledeAutomovel\\ControleAluguel.test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
