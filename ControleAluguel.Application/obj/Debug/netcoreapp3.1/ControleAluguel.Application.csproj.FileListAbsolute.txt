@@ -1,0 +1,12 @@
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\bin\Debug\netcoreapp3.1\ControleAluguel.Application.deps.json
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\bin\Debug\netcoreapp3.1\ControleAluguel.Application.dll
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\bin\Debug\netcoreapp3.1\ControleAluguel.Application.pdb
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\bin\Debug\netcoreapp3.1\ControleAluguel.Core.dll
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\bin\Debug\netcoreapp3.1\ControleAluguel.Core.pdb
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\obj\Debug\netcoreapp3.1\ControleAluguel.Application.csprojAssemblyReference.cache
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\obj\Debug\netcoreapp3.1\ControleAluguel.Application.AssemblyInfoInputs.cache
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\obj\Debug\netcoreapp3.1\ControleAluguel.Application.AssemblyInfo.cs
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\obj\Debug\netcoreapp3.1\ControleAluguel.Application.csproj.CoreCompileInputs.cache
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\obj\Debug\netcoreapp3.1\ControleAluguel.Application.csproj.CopyComplete
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\obj\Debug\netcoreapp3.1\ControleAluguel.Application.dll
+C:\Users\canel\source\repos\ControleAluguel\ControleAluguel.Application\obj\Debug\netcoreapp3.1\ControleAluguel.Application.pdb
